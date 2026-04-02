@@ -118,5 +118,5 @@ A synthetic territory coverage dataset demonstrating the TAM validation methodol
 
 **Maria Cordova**
 Sales Operations Analyst (Territory Planning) UKI
-[LinkedIn](https://www.linkedin.com/in/maria-gabriella-cordova-986142142/) · [Kaggle](https://www.kaggle.com/mcordova2255)
+[LinkedIn](https://www.linkedin.com/in/maria-gabriella-cordova-986142142/) · [Kaggle](https://www.kaggle.com/mariacordova)
 maria.cordova@hp.com
