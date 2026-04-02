@@ -28,9 +28,9 @@ territory-analytics/
 
 ## 1. UK + Ireland Company Filings Research Methodology
 
-A structured framework for researching company group hierarchies using [Companies House](https://find-and-update.company-information.service.gov.uk/), the [Irish Companies Registration Office (CRO)](https://cro.ie/), annual reports and official filings.
+A structured framework for researching company group hierarchies using [Companies House](https://find-and-update.company-information.service.gov.uk/), the [Irish Companies Registration Office (CRO)](https://cro.ie/), annual reports, and official filings.
 
-Produces consistent, evidence-cited outputs for territory ownership, employee estimation and procurement control decisions in a Sales Operations context.
+Produces consistent, evidence-cited outputs for territory ownership, employee estimation, and procurement control decisions in a Sales Operations context.
 
 ### The eight-section output
 
@@ -39,9 +39,9 @@ Produces consistent, evidence-cited outputs for territory ownership, employee es
 | A — Analyst Snapshot | 10-bullet executive summary: entity confirmation, parent structure, employee counts, procurement model |
 | B — Parents & Control | Immediate parent, ultimate parent, controlling shareholders — explicitly separated |
 | C — Employees | Global / UK / Ireland / Combined with `[FACT]` `[DERIVED]` `[ESTIMATE]` labelling and explicit >500 or <500 conclusion |
-| D — UK & IE Subsidiaries | Verified table of key entities — each CH/CRO profile page opened to confirm status, SIC and registered office |
+| D — UK & IE Subsidiaries | Verified table of key entities — each CH/CRO profile page opened to confirm status, SIC, and registered office |
 | E — Trading Names | Brand-to-legal-entity mapping to prevent CRM duplicates and incorrect ST alignment |
-| F — Procurement Control | Centralised / decentralised / hybrid classification with contract-signing entity named |
+| F — Procurement Control | Centralised / decentralised/hybrid classification with contract-signing entity named |
 | G — Evidence List | Every source cited specifically with links |
 | H — Gap Log | Honest record of what could not be confirmed and why |
 
@@ -52,7 +52,7 @@ Produces consistent, evidence-cited outputs for territory ownership, employee es
 
 ## 2. AI-Assisted Operational Workflow
 
-A structured session brief architecture that encodes domain logic, stakeholder dependencies, case workflow rules and communication standards into a reusable operational context.
+A structured session brief architecture that encodes domain logic, stakeholder dependencies, case workflow rules, and communication standards into a reusable operational context.
 
 Developed to address a specific fragmentation problem: seven tools with zero automated handoffs between them, requiring manual verification at every stage of the case lifecycle.
 
@@ -70,7 +70,7 @@ Developed to address a specific fragmentation problem: seven tools with zero aut
 
 ## 3. FRIS Coverage Operating Model
 
-A documented operating model designed to close the gap between CRM case approval and system implementation — built in response to a broken coverage workflow with no closed-loop verification, no escalation path and no single source of record.
+A documented operating model designed to close the gap between CRM case approval and system implementation — built in response to a broken coverage workflow with no closed-loop verification, no escalation path, and no single source of record.
 
 ### Delivered across the FRIS vertical
 | Metric | Result |
@@ -79,9 +79,9 @@ A documented operating model designed to close the gap between CRM case approval
 | ORGs reviewed | 7,000+ |
 | Optimised patches | 100+ (50% complexity reduction) |
 | Data correction cases raised | 1,900+ |
-| Operating model | Designed, documented and proven |
+| Operating model | Designed, documented, and proven |
 
-Client and system-specific data has been removed. The process design, gap analysis and business case are intact.
+Client and system-specific data have been removed. The process design, gap analysis, and business case are intact.
 
 → **[View the operating model PDF](operating-model/FRIS-Coverage-Operating-Model-Redacted.pdf)**
 
@@ -110,7 +110,7 @@ Microsoft Dynamics · HPD · SQL · Excel (openpyxl) · Python (reportlab) · Co
 
 A synthetic territory coverage dataset demonstrating the TAM validation methodology used across the FRIS vertical portfolio.
 
-→ [View on Kaggle](https://www.kaggle.com/mcordova2255)
+→ [View on Kaggle](https://www.kaggle.com/code/mariacordova/territory-coverage-analysis)
 
 ---
 
